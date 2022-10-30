@@ -4,7 +4,8 @@
 int main()
 {
     int t;
-    t = 5;
-    printf("%d, number t = %d \n", 32, t);
+    t = 15;
+    t = 5 - t * 2 + 5; 
+    printf("%d\n", t);
     return 0;
 }
