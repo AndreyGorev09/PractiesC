@@ -5,6 +5,6 @@ int main()
 {
     int t;
     t = 5;
-    printf("%d\n", 32);
+    printf("%d, number t = %d \n", 32, t);
     return 0;
 }
