@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
 
 
@@ -12,7 +13,7 @@ int main(int argc, char const *argv[])
     int ox, oy;
     int ax = 3, ay = 5;
     int s = 0;
-    srand(56);
+    srand(time(NULL));
 
     do
     {
