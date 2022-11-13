@@ -8,8 +8,8 @@ int main(int argc, char const *argv[])
     int i = 7;
     float f;
     f = i;
-    printf("%f\n", (float)i); // ЯВНОЕ ПРИВЕДЕГИЕ ЦЕЛОГО ЧИСЛА INT В ВЕЩЕСТВЕННОЕ FLOAT
-    printf("%f\n", f); // НЕЯВНОЕ ПРЕОБЛАЗОВАНИЕ ЦЕЛОГО ЧИСЛА INT В ВЕЩЕСТВЕННОЕ FLOAT
+    printf("%f\n", (float)i); // ЯВНОЕ ПРИВЕДЕНИЕ ЦЕЛОГО ЧИСЛА INT В ВЕЩЕСТВЕННОЕ FLOAT
+    printf("%f\n", f); // НЕЯВНОЕ ПРЕОБРАЗОВАНИЕ ЦЕЛОГО ЧИСЛА INT В ВЕЩЕСТВЕННОЕ FLOAT
     return 0;
 } */
 
