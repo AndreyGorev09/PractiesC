@@ -1,0 +1,4 @@
+Hello world!!!
+It`s test.txt file
+100
+2.5
